@@ -11,7 +11,7 @@ Desaprender y Aprender
 * ✉️  You can contact me at [francisco.terronesr@gmail.com](mailto:francisco.terronesr@gmail.com)
 * 🚀  I'm currently working on [NGR](http://www.somosngr.com.pe/)
 * 🧠  I'm learning Tecnologia
-* 🤝  I'm open to collaborating on POS, Infraestructura
+* 🤝  I'm open to collaborating on POS, Infraestructura.
 * ⚡  Progreso luego perfección.
 
 <a href="https://www.github.com/franciscoterrones007" target="_blank" rel="noreferrer"><img
